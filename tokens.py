@@ -1,8 +1,0 @@
-bot_token_currency1='8201819034:AAEWASGPdRvdqHXZZ_thvNsCMevnCS9edWs'
-api_key_currency1='295f00f171ae5b4823ce8429'
-telegram_bot_token='8278153078:AAG-yBrmyYJN7lX6cQq8FB2ff_XOQbmJchY'
-weather_bot_key='7701042813:AAEzSyShum15z4S3qu9NgtZft826hF9aPYE'
-tracker_bot_token='8586465567:AAEzabmj0BHOWhpIUpMLGHGPQCZLEcV5RJE'
-AI_bot_token='8402564362:AAFhLvuxqzBOIhcr8YWRxK8DQb7OCRaxIUo'
-weather_api_key='dec8ee3f051c46eb931104037262601'
-ai_api_key="AIzaSyB31l6shLAJmOBQ8lJVyhrZt4PI3C4LiVA"

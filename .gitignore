@@ -1,0 +1,21 @@
+# Секретные файлы с токенами
+tokens.py
+.env
+config.py
+
+# Python (кэш и временные файлы)
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Виртуальное окружение
+.venv/
+venv/
+env/
+ENV/
+
+# База данных (если используешь SQLite для хранения юзеров)
+*.sqlite3
+
+# Настройки PyCharm
+.idea/
